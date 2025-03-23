@@ -5,13 +5,6 @@ With a background in UI development and an eye for detail, I enjoy creating clea
 
 You can visit my portfolio at [youngeom.me](https://www.youngeom.me)
 
----
-
-### Interests  
-I'm currently diving deep into Shopify theme development.  
-Outside of coding, I love discovering beautiful branding, minimal design, and clever UI animations.
-
----
 
 ### Contact  
 If you'd like to collaborate or just say hi, feel free to reach out!  
