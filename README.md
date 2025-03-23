@@ -5,8 +5,3 @@ With a background in UI development and an eye for detail, I enjoy creating clea
 
 You can visit my portfolio at [youngeom.me](https://www.youngeom.me)
 
-
-### Contact  
-If you'd like to collaborate or just say hi, feel free to reach out!  
-📩 youngeom.dev@gmail.com  
-💼 [linkedin.com/in/youngeom](https://www.linkedin.com/in/youngeom)
