@@ -1,6 +1,6 @@
 ### PORTFOLIO
 
-You can visit my portfolio at [youngeom.me](https://www.youngeom.me)
+[youngeom.me](https://www.youngeom.me)
 
 
 ### MAIL
